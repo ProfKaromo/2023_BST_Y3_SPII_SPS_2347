@@ -1,0 +1,19 @@
+---
+title: "1 ANNOUCEMENTS 2023 BST SPS 2347 CLASS MARKS"
+author: "JOSEPH KAROMO"
+date: "2023-09-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## CLASS ANNOUCEMENTS
+Next class will be on Monday at 10 am, remember to check on the Github account for some assignments. This will help you refresh on what you have done previously. 
+
+
+## CLASS MARKS
+1. 13433 - 2
+2. 13408 - 2
+
